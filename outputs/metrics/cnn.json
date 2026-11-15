@@ -1,0 +1,44 @@
+{
+  "accuracy": 0.6438923395445134,
+  "macro_f1": 0.3431345826235094,
+  "weighted_f1": 0.584160467831307,
+  "classification_report": {
+    "Longitudinal Crack": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 71.0
+    },
+    "Transverse Crack": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 7.0
+    },
+    "Alligator Crack": {
+      "precision": 0.6342182890855457,
+      "recall": 0.8669354838709677,
+      "f1-score": 0.7325383304940375,
+      "support": 248.0
+    },
+    "Pothole": {
+      "precision": 0.6713286713286714,
+      "recall": 0.6114649681528662,
+      "f1-score": 0.64,
+      "support": 157.0
+    },
+    "accuracy": 0.6438923395445134,
+    "macro avg": {
+      "precision": 0.3263867401035543,
+      "recall": 0.3696001130059585,
+      "f1-score": 0.3431345826235094,
+      "support": 483.0
+    },
+    "weighted avg": {
+      "precision": 0.5438607393205315,
+      "recall": 0.6438923395445134,
+      "f1-score": 0.584160467831307,
+      "support": 483.0
+    }
+  }
+}

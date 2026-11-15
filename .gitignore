@@ -1,0 +1,57 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments and secrets
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Dataset files
+data/raw/
+data/processed/
+
+# Trained models and checkpoints
+models/
+checkpoints/
+*.pt
+*.pth
+*.joblib
+*.pkl
+
+# Outputs: ignore everything by default
+outputs/*
+
+# Keep evaluation metrics
+!outputs/metrics/
+outputs/metrics/*
+!outputs/metrics/*.json
+!outputs/metrics/*.csv
+
+# Keep Grad-CAM visualizations
+!outputs/gradcam/
+outputs/gradcam/*
+!outputs/gradcam/*.png
+
+# Keep severity analysis results
+!outputs/severity/
+outputs/severity/*
+!outputs/severity/*.jpg
+!outputs/severity/*.png
+!outputs/severity/*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE and operating system
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Archived experimental artifacts
+archive/*

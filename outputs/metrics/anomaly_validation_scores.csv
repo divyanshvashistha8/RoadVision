@@ -1,0 +1,484 @@
+image,class_name,reconstruction_error,threshold,flagged
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_000052.jpg,Alligator Crack,0.006517077,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_000054.jpg,Longitudinal Crack,0.012570529,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_000071.jpg,Pothole,0.033474497,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_000078.jpg,Longitudinal Crack,0.018497797,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_000086.jpg,Longitudinal Crack,0.017990727,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_000109.jpg,Alligator Crack,0.006163944,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_000126.jpg,Alligator Crack,0.0335333,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_000130.jpg,Alligator Crack,0.006286116,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_000184.jpg,Alligator Crack,0.023085786,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_000191.jpg,Alligator Crack,0.028882008,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_000259.jpg,Longitudinal Crack,0.023255603,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_000269.jpg,Alligator Crack,0.026909685,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_000272.jpg,Alligator Crack,0.0070914086,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_000310.jpg,Alligator Crack,0.006950536,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_000348.jpg,Alligator Crack,0.02179649,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_000369.jpg,Alligator Crack,0.015708506,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_000421.jpg,Alligator Crack,0.008088764,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_000432.jpg,Alligator Crack,0.009059878,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_000436.jpg,Alligator Crack,0.008845686,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_000438.jpg,Pothole,0.008767889,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_000475.jpg,Alligator Crack,0.0074697034,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_000486.jpg,Alligator Crack,0.006756583,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_000494.jpg,Longitudinal Crack,0.0073289652,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_000504.jpg,Alligator Crack,0.01088424,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_000524.jpg,Alligator Crack,0.010714396,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_000532.jpg,Longitudinal Crack,0.015730655,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_000595.jpg,Pothole,0.0057634194,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_000622.jpg,Alligator Crack,0.015878236,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_000627.jpg,Pothole,0.020866932,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_000655.jpg,Alligator Crack,0.012650486,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_000659.jpg,Alligator Crack,0.010076798,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_000669.jpg,Longitudinal Crack,0.007500384,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_000690.jpg,Alligator Crack,0.008303625,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_000714.jpg,Alligator Crack,0.00786675,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_000718.jpg,Pothole,0.018918509,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_000726.jpg,Alligator Crack,0.010014533,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_000730.jpg,Alligator Crack,0.034550976,0.0345263853669166,True
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_000731.jpg,Pothole,0.029840488,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_000756.jpg,Longitudinal Crack,0.013091923,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_000780.jpg,Alligator Crack,0.011482091,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_000852.jpg,Alligator Crack,0.022360131,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_000895.jpg,Alligator Crack,0.012220555,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_000922.jpg,Alligator Crack,0.014052826,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_000923.jpg,Pothole,0.007141749,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_000964.jpg,Longitudinal Crack,0.017675828,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_000970.jpg,Alligator Crack,0.030941442,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_001003.jpg,Alligator Crack,0.05247772,0.0345263853669166,True
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_001041.jpg,Longitudinal Crack,0.008396658,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_001090.jpg,Longitudinal Crack,0.013881906,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_001111.jpg,Alligator Crack,0.0065453835,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_001112.jpg,Pothole,0.016691705,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_001126.jpg,Pothole,0.009151563,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_001138.jpg,Alligator Crack,0.0105336495,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_001142.jpg,Alligator Crack,0.03929329,0.0345263853669166,True
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_001146.jpg,Longitudinal Crack,0.026321538,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_001173.jpg,Pothole,0.03604935,0.0345263853669166,True
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_001181.jpg,Longitudinal Crack,0.0075625246,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_001198.jpg,Longitudinal Crack,0.02798307,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_001200.jpg,Alligator Crack,0.006780253,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_001228.jpg,Alligator Crack,0.047213566,0.0345263853669166,True
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_001230.jpg,Pothole,0.019931639,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_001234.jpg,Pothole,0.004568657,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_001236.jpg,Alligator Crack,0.008026643,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_001239.jpg,Pothole,0.026958952,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_001242.jpg,Pothole,0.02925248,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_001244.jpg,Alligator Crack,0.030340234,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_001249.jpg,Alligator Crack,0.015083637,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_001254.jpg,Longitudinal Crack,0.013386285,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_001295.jpg,Longitudinal Crack,0.009080029,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_001310.jpg,Alligator Crack,0.013097316,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_001321.jpg,Alligator Crack,0.0067993286,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_001357.jpg,Alligator Crack,0.015244189,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_001362.jpg,Alligator Crack,0.03157822,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_001402.jpg,Alligator Crack,0.028662778,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_001443.jpg,Pothole,0.019737137,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_001478.jpg,Longitudinal Crack,0.05441652,0.0345263853669166,True
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_001491.jpg,Pothole,0.015352147,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_001516.jpg,Pothole,0.009625544,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_001563.jpg,Alligator Crack,0.009473383,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_001566.jpg,Pothole,0.0078422995,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_001590.jpg,Alligator Crack,0.022322869,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_001604.jpg,Alligator Crack,0.029255455,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_001605.jpg,Pothole,0.009969094,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_001627.jpg,Longitudinal Crack,0.006453983,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_001630.jpg,Alligator Crack,0.010071601,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_001636.jpg,Longitudinal Crack,0.0057953317,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_001648.jpg,Alligator Crack,0.0067962124,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_001692.jpg,Alligator Crack,0.010049114,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_001695.jpg,Alligator Crack,0.03272797,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_001697.jpg,Alligator Crack,0.013479593,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_001789.jpg,Alligator Crack,0.032105207,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_001832.jpg,Alligator Crack,0.026882999,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_001863.jpg,Longitudinal Crack,0.01421629,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_001865.jpg,Alligator Crack,0.007344993,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_001906.jpg,Pothole,0.0061075916,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_001963.jpg,Longitudinal Crack,0.009241584,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_001977.jpg,Alligator Crack,0.011224956,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_001989.jpg,Pothole,0.015461554,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_001996.jpg,Pothole,0.050368287,0.0345263853669166,True
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_002023.jpg,Alligator Crack,0.029826952,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_002034.jpg,Longitudinal Crack,0.005081003,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_002068.jpg,Alligator Crack,0.011907593,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_002079.jpg,Pothole,0.01066708,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_002085.jpg,Pothole,0.0068841744,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_002099.jpg,Alligator Crack,0.03454014,0.0345263853669166,True
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_002106.jpg,Alligator Crack,0.008355846,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_002137.jpg,Alligator Crack,0.008632773,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_002143.jpg,Longitudinal Crack,0.024897456,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_002206.jpg,Pothole,0.010791402,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_002250.jpg,Pothole,0.017595123,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_002299.jpg,Longitudinal Crack,0.017388813,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_002305.jpg,Pothole,0.013841668,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_002331.jpg,Pothole,0.016510824,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_002345.jpg,Pothole,0.00889795,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_002364.jpg,Alligator Crack,0.026190072,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_002372.jpg,Longitudinal Crack,0.053849146,0.0345263853669166,True
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_002379.jpg,Alligator Crack,0.011201975,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_002386.jpg,Alligator Crack,0.008751969,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_002395.jpg,Pothole,0.021534987,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_002480.jpg,Alligator Crack,0.014139825,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_002487.jpg,Alligator Crack,0.0076115252,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_002494.jpg,Alligator Crack,0.012076547,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_002498.jpg,Pothole,0.01926698,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_002509.jpg,Pothole,0.010376321,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_002557.jpg,Longitudinal Crack,0.011982561,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_002566.jpg,Alligator Crack,0.007363468,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_002576.jpg,Longitudinal Crack,0.009719624,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_002585.jpg,Pothole,0.009121208,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_002696.jpg,Longitudinal Crack,0.0076557,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_002702.jpg,Alligator Crack,0.012157465,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_002703.jpg,Longitudinal Crack,0.009204201,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_002745.jpg,Alligator Crack,0.009545875,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_002784.jpg,Alligator Crack,0.0052861776,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_002795.jpg,Alligator Crack,0.010148779,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_002847.jpg,Longitudinal Crack,0.014544631,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_002860.jpg,Pothole,0.07892441,0.0345263853669166,True
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_002877.jpg,Longitudinal Crack,0.0062503708,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_002892.jpg,Alligator Crack,0.00936922,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_002901.jpg,Pothole,0.011885445,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_002914.jpg,Pothole,0.021449776,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_002925.jpg,Longitudinal Crack,0.0058940677,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_002968.jpg,Pothole,0.007390366,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_002972.jpg,Pothole,0.010187645,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_003002.jpg,Alligator Crack,0.025294375,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_003017.jpg,Pothole,0.010149308,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_003045.jpg,Alligator Crack,0.011545565,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_003079.jpg,Pothole,0.017590383,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_003085.jpg,Longitudinal Crack,0.03609789,0.0345263853669166,True
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_003093.jpg,Alligator Crack,0.007949401,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_003116.jpg,Transverse Crack,0.0059990436,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_003148.jpg,Longitudinal Crack,0.007537774,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_003151.jpg,Pothole,0.018819679,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_003156.jpg,Longitudinal Crack,0.018864406,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_003161.jpg,Pothole,0.010825657,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_003172.jpg,Pothole,0.024440246,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_003185.jpg,Alligator Crack,0.022106891,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_003253.jpg,Longitudinal Crack,0.014072495,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_003278.jpg,Longitudinal Crack,0.007786334,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_003290.jpg,Alligator Crack,0.0101510035,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_003312.jpg,Alligator Crack,0.028841307,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_003323.jpg,Pothole,0.0061490564,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_003366.jpg,Pothole,0.010388443,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_003378.jpg,Alligator Crack,0.013398271,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_003422.jpg,Pothole,0.008628656,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_003424.jpg,Pothole,0.034714483,0.0345263853669166,True
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_003426.jpg,Pothole,0.024322828,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_003432.jpg,Alligator Crack,0.029525232,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_003475.jpg,Pothole,0.020080417,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_003480.jpg,Alligator Crack,0.027706837,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_003505.jpg,Alligator Crack,0.0043749674,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_003507.jpg,Alligator Crack,0.022130575,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_003523.jpg,Longitudinal Crack,0.016161548,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_003632.jpg,Alligator Crack,0.023377227,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_003651.jpg,Alligator Crack,0.025871214,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_003667.jpg,Alligator Crack,0.006657479,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_003682.jpg,Pothole,0.017124098,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_003754.jpg,Alligator Crack,0.0064260466,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_003769.jpg,Alligator Crack,0.024306178,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_003774.jpg,Alligator Crack,0.008819943,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_003776.jpg,Pothole,0.0106188655,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_003806.jpg,Longitudinal Crack,0.008039109,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_003810.jpg,Longitudinal Crack,0.005901702,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_003825.jpg,Alligator Crack,0.0098460885,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_003838.jpg,Alligator Crack,0.036521547,0.0345263853669166,True
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_003849.jpg,Longitudinal Crack,0.019409101,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_003852.jpg,Alligator Crack,0.030585228,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_003854.jpg,Longitudinal Crack,0.013005775,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_003884.jpg,Alligator Crack,0.027237698,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_003911.jpg,Pothole,0.008695853,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_003938.jpg,Longitudinal Crack,0.015668048,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_003948.jpg,Alligator Crack,0.013279877,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_003951.jpg,Pothole,0.018461041,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_003967.jpg,Pothole,0.011762127,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_003976.jpg,Alligator Crack,0.010465674,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_004040.jpg,Alligator Crack,0.027210541,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_004061.jpg,Alligator Crack,0.028084029,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_004065.jpg,Pothole,0.0049586813,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_004070.jpg,Pothole,0.0073242285,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_004091.jpg,Pothole,0.0137419375,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_004101.jpg,Alligator Crack,0.0134811215,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_004115.jpg,Longitudinal Crack,0.035500877,0.0345263853669166,True
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_004157.jpg,Longitudinal Crack,0.026225127,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_004184.jpg,Pothole,0.012418792,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_004249.jpg,Alligator Crack,0.006686446,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_004253.jpg,Pothole,0.015066499,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_004257.jpg,Alligator Crack,0.011341073,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_004274.jpg,Alligator Crack,0.009501535,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_004285.jpg,Alligator Crack,0.03801963,0.0345263853669166,True
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_004298.jpg,Pothole,0.020910485,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_004311.jpg,Alligator Crack,0.008735842,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_004312.jpg,Pothole,0.012760128,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_004437.jpg,Alligator Crack,0.010785416,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_004443.jpg,Longitudinal Crack,0.01047836,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_004457.jpg,Longitudinal Crack,0.030604472,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_004459.jpg,Pothole,0.016880387,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_004465.jpg,Alligator Crack,0.025157832,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_004504.jpg,Longitudinal Crack,0.013951287,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_004511.jpg,Alligator Crack,0.0041216225,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_004537.jpg,Alligator Crack,0.022082388,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_004542.jpg,Pothole,0.009410615,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_004543.jpg,Alligator Crack,0.006619497,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_004562.jpg,Alligator Crack,0.010246925,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_004563.jpg,Alligator Crack,0.019151347,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_004565.jpg,Longitudinal Crack,0.020069154,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_004571.jpg,Alligator Crack,0.013739007,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_004627.jpg,Pothole,0.008950519,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_004629.jpg,Pothole,0.01146256,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_004637.jpg,Alligator Crack,0.0076281717,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_004646.jpg,Alligator Crack,0.013208014,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_004663.jpg,Pothole,0.02504124,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_004686.jpg,Longitudinal Crack,0.024562333,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_004705.jpg,Pothole,0.011175891,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_004732.jpg,Pothole,0.024257187,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_004806.jpg,Alligator Crack,0.014189727,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_004830.jpg,Alligator Crack,0.04347027,0.0345263853669166,True
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_004837.jpg,Pothole,0.045078088,0.0345263853669166,True
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_004853.jpg,Alligator Crack,0.015483574,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_004863.jpg,Pothole,0.012011246,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_004876.jpg,Pothole,0.054253362,0.0345263853669166,True
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_004882.jpg,Alligator Crack,0.01373347,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_004906.jpg,Alligator Crack,0.018357914,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_004907.jpg,Longitudinal Crack,0.022342185,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_004908.jpg,Pothole,0.023336114,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_004977.jpg,Longitudinal Crack,0.011891035,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_004989.jpg,Longitudinal Crack,0.0071967165,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_005006.jpg,Alligator Crack,0.009914622,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_005080.jpg,Pothole,0.030158617,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_005081.jpg,Alligator Crack,0.006784405,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_005121.jpg,Alligator Crack,0.018433934,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_005123.jpg,Longitudinal Crack,0.023280228,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_005147.jpg,Longitudinal Crack,0.020167362,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_005278.jpg,Alligator Crack,0.012238666,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_005280.jpg,Longitudinal Crack,0.008796507,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_005286.jpg,Pothole,0.006683201,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_005305.jpg,Pothole,0.01770402,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_005376.jpg,Alligator Crack,0.008969798,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_005399.jpg,Alligator Crack,0.023471992,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_005420.jpg,Pothole,0.006053677,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_005441.jpg,Longitudinal Crack,0.017329693,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_005445.jpg,Pothole,0.021333927,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_005469.jpg,Pothole,0.037323873,0.0345263853669166,True
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_005519.jpg,Longitudinal Crack,0.023857318,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_005526.jpg,Alligator Crack,0.015867976,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_005535.jpg,Alligator Crack,0.0077607087,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_005601.jpg,Alligator Crack,0.014094073,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_005616.jpg,Longitudinal Crack,0.027856892,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_005643.jpg,Pothole,0.019902334,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_005660.jpg,Longitudinal Crack,0.010585366,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_005678.jpg,Alligator Crack,0.011306132,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_005693.jpg,Pothole,0.011086757,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_005726.jpg,Alligator Crack,0.0076074284,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_005728.jpg,Alligator Crack,0.005838471,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_005746.jpg,Alligator Crack,0.0033393162,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_005777.jpg,Pothole,0.024925914,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_005781.jpg,Alligator Crack,0.0046002036,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_005839.jpg,Alligator Crack,0.01077756,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_005843.jpg,Alligator Crack,0.015091607,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_005848.jpg,Longitudinal Crack,0.021177663,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_005884.jpg,Pothole,0.010671732,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_005916.jpg,Alligator Crack,0.008681682,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_005921.jpg,Alligator Crack,0.013634734,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_005933.jpg,Longitudinal Crack,0.0073382813,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_005954.jpg,Alligator Crack,0.010537532,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_005993.jpg,Alligator Crack,0.0051236134,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_005995.jpg,Pothole,0.0074617774,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_006029.jpg,Alligator Crack,0.006383252,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_006030.jpg,Alligator Crack,0.012291626,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_006050.jpg,Longitudinal Crack,0.012380742,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_006062.jpg,Alligator Crack,0.0073740254,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_006077.jpg,Alligator Crack,0.012237648,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_006096.jpg,Alligator Crack,0.008739784,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_006104.jpg,Longitudinal Crack,0.01834171,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_006121.jpg,Alligator Crack,0.016462171,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_006125.jpg,Longitudinal Crack,0.0076888297,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_006180.jpg,Alligator Crack,0.014439434,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_006197.jpg,Longitudinal Crack,0.027038986,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_006201.jpg,Alligator Crack,0.010258974,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_006202.jpg,Alligator Crack,0.009185192,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_006237.jpg,Pothole,0.006621888,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_006238.jpg,Longitudinal Crack,0.0062811114,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_006275.jpg,Alligator Crack,0.009203327,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_006281.jpg,Alligator Crack,0.010208621,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_006286.jpg,Alligator Crack,0.01805351,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_006322.jpg,Longitudinal Crack,0.008534269,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_006326.jpg,Pothole,0.040356662,0.0345263853669166,True
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_006395.jpg,Alligator Crack,0.014232266,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_006441.jpg,Alligator Crack,0.008525445,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_006447.jpg,Pothole,0.009714745,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_006462.jpg,Pothole,0.016343614,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_006465.jpg,Pothole,0.008277946,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_006488.jpg,Alligator Crack,0.018794013,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_006493.jpg,Longitudinal Crack,0.030009542,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_006543.jpg,Alligator Crack,0.0057657594,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_006557.jpg,Alligator Crack,0.01414551,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_006582.jpg,Alligator Crack,0.017171968,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_006603.jpg,Pothole,0.016298823,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_006613.jpg,Alligator Crack,0.02735446,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_006622.jpg,Alligator Crack,0.07899668,0.0345263853669166,True
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_006646.jpg,Longitudinal Crack,0.019536447,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_006651.jpg,Alligator Crack,0.008621864,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_006654.jpg,Alligator Crack,0.04239985,0.0345263853669166,True
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_006668.jpg,Alligator Crack,0.008967853,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_006670.jpg,Alligator Crack,0.01949009,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_006691.jpg,Pothole,0.008884541,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_006698.jpg,Longitudinal Crack,0.030731272,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_006713.jpg,Longitudinal Crack,0.0072606923,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_006715.jpg,Alligator Crack,0.021682143,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_006760.jpg,Alligator Crack,0.01806387,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_006773.jpg,Longitudinal Crack,0.039985716,0.0345263853669166,True
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_006789.jpg,Alligator Crack,0.09704734,0.0345263853669166,True
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_006831.jpg,Alligator Crack,0.0108657135,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_006847.jpg,Pothole,0.016447602,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_006874.jpg,Alligator Crack,0.012897928,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_006876.jpg,Alligator Crack,0.0129392175,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_006893.jpg,Longitudinal Crack,0.008614071,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_006901.jpg,Longitudinal Crack,0.016332267,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_006928.jpg,Pothole,0.0063966596,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_006970.jpg,Pothole,0.044032,0.0345263853669166,True
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_006977.jpg,Alligator Crack,0.00551748,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_007042.jpg,Pothole,0.06908095,0.0345263853669166,True
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_007051.jpg,Pothole,0.03814805,0.0345263853669166,True
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_007094.jpg,Longitudinal Crack,0.014618025,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_007109.jpg,Alligator Crack,0.012047054,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_007132.jpg,Transverse Crack,0.029798307,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_007155.jpg,Pothole,0.021830197,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_007171.jpg,Alligator Crack,0.026953623,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_007178.jpg,Alligator Crack,0.009585686,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_007194.jpg,Alligator Crack,0.016582144,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_007196.jpg,Alligator Crack,0.023533916,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_007204.jpg,Alligator Crack,0.008186582,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_007205.jpg,Pothole,0.020835001,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_007213.jpg,Alligator Crack,0.011347181,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_007247.jpg,Alligator Crack,0.012966381,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_007321.jpg,Pothole,0.015879221,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_007327.jpg,Pothole,0.010556293,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_007368.jpg,Alligator Crack,0.01959776,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_007372.jpg,Alligator Crack,0.035926014,0.0345263853669166,True
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_007385.jpg,Alligator Crack,0.015195866,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_007399.jpg,Pothole,0.020527856,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_007457.jpg,Longitudinal Crack,0.006460513,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_007491.jpg,Pothole,0.038891807,0.0345263853669166,True
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_007518.jpg,Pothole,0.00864195,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_007558.jpg,Longitudinal Crack,0.02388568,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_007576.jpg,Longitudinal Crack,0.017935848,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_007578.jpg,Pothole,0.008530754,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_007614.jpg,Longitudinal Crack,0.007192542,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_007625.jpg,Longitudinal Crack,0.020104479,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_007626.jpg,Alligator Crack,0.016933793,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_007646.jpg,Alligator Crack,0.032006815,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_007647.jpg,Pothole,0.021412957,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_007650.jpg,Pothole,0.017569691,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_007682.jpg,Alligator Crack,0.009638368,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_007720.jpg,Alligator Crack,0.009302977,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_007736.jpg,Longitudinal Crack,0.022540277,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_007737.jpg,Pothole,0.007890504,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_007772.jpg,Alligator Crack,0.010067522,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_007789.jpg,Alligator Crack,0.011482783,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_007809.jpg,Alligator Crack,0.019389624,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_007817.jpg,Alligator Crack,0.009377265,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_007886.jpg,Alligator Crack,0.010473737,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_007890.jpg,Pothole,0.006699749,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_007909.jpg,Pothole,0.018876826,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_007964.jpg,Alligator Crack,0.01043406,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_007991.jpg,Alligator Crack,0.009560629,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_007997.jpg,Alligator Crack,0.0140382545,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_008013.jpg,Pothole,0.02035053,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_008015.jpg,Pothole,0.021529038,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_008037.jpg,Alligator Crack,0.029704645,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_008059.jpg,Longitudinal Crack,0.014569688,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_008061.jpg,Alligator Crack,0.011199116,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_008062.jpg,Longitudinal Crack,0.009074968,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_008078.jpg,Alligator Crack,0.015666073,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_008094.jpg,Pothole,0.006050113,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_008105.jpg,Alligator Crack,0.0064686215,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_008112.jpg,Alligator Crack,0.03518772,0.0345263853669166,True
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_008127.jpg,Pothole,0.009275534,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_008128.jpg,Longitudinal Crack,0.040689588,0.0345263853669166,True
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_008141.jpg,Longitudinal Crack,0.018091032,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_008144.jpg,Longitudinal Crack,0.017892778,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_008172.jpg,Alligator Crack,0.024902824,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_008183.jpg,Alligator Crack,0.011451166,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_008188.jpg,Longitudinal Crack,0.0056376182,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_008190.jpg,Alligator Crack,0.02795491,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_008195.jpg,Alligator Crack,0.04565456,0.0345263853669166,True
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_008218.jpg,Longitudinal Crack,0.023072356,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_008241.jpg,Pothole,0.009867718,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_008249.jpg,Alligator Crack,0.008532627,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_008257.jpg,Alligator Crack,0.010375205,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_008297.jpg,Pothole,0.009085662,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_008327.jpg,Pothole,0.012349625,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_008465.jpg,Alligator Crack,0.011966365,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_008504.jpg,Alligator Crack,0.01458035,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_008505.jpg,Pothole,0.016691878,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_008532.jpg,Alligator Crack,0.033848174,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_008541.jpg,Alligator Crack,0.022868225,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_008553.jpg,Alligator Crack,0.014846786,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_008609.jpg,Pothole,0.011009249,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_008611.jpg,Longitudinal Crack,0.02151773,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_008632.jpg,Pothole,0.016627567,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_008637.jpg,Longitudinal Crack,0.029504934,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_008664.jpg,Alligator Crack,0.03423223,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_008676.jpg,Alligator Crack,0.007916297,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_008680.jpg,Alligator Crack,0.04446879,0.0345263853669166,True
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_008684.jpg,Alligator Crack,0.011933479,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_008691.jpg,Alligator Crack,0.019838829,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_008726.jpg,Pothole,0.015684698,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_008731.jpg,Alligator Crack,0.021532603,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_008739.jpg,Longitudinal Crack,0.019152716,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_008750.jpg,Alligator Crack,0.018909762,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_008755.jpg,Longitudinal Crack,0.03165763,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_008798.jpg,Alligator Crack,0.0075159064,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_008829.jpg,Alligator Crack,0.021905001,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_008904.jpg,Longitudinal Crack,0.033127267,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_008926.jpg,Alligator Crack,0.015039629,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_008928.jpg,Alligator Crack,0.011640623,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_008969.jpg,Alligator Crack,0.0058127167,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_008988.jpg,Longitudinal Crack,0.023037925,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_009004.jpg,Alligator Crack,0.02055243,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_009011.jpg,Pothole,0.019278238,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_009042.jpg,Longitudinal Crack,0.019844847,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_009097.jpg,Alligator Crack,0.005391687,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_009117.jpg,Pothole,0.0057627824,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_009133.jpg,Longitudinal Crack,0.008003319,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_009151.jpg,Longitudinal Crack,0.015570006,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_009173.jpg,Pothole,0.033706326,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_009175.jpg,Longitudinal Crack,0.0065403124,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_009177.jpg,Pothole,0.020026216,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_009184.jpg,Alligator Crack,0.01892878,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_009263.jpg,Alligator Crack,0.019201173,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_009279.jpg,Pothole,0.0066573797,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_009290.jpg,Alligator Crack,0.030009052,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_009318.jpg,Alligator Crack,0.010319161,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_009320.jpg,Longitudinal Crack,0.00759667,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_009370.jpg,Alligator Crack,0.026762072,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_009376.jpg,Alligator Crack,0.007832526,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_009392.jpg,Alligator Crack,0.015669374,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_009434.jpg,Alligator Crack,0.005844771,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_009436.jpg,Pothole,0.013113039,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_009439.jpg,Alligator Crack,0.021409467,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_009445.jpg,Alligator Crack,0.006548767,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_009449.jpg,Longitudinal Crack,0.03440214,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_009486.jpg,Alligator Crack,0.028418703,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_009505.jpg,Longitudinal Crack,0.01787064,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_009517.jpg,Alligator Crack,0.02563264,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_009546.jpg,Longitudinal Crack,0.008899214,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_009553.jpg,Alligator Crack,0.021892257,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_009556.jpg,Alligator Crack,0.00835759,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_009592.jpg,Alligator Crack,0.020370727,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_009597.jpg,Longitudinal Crack,0.016459886,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_009619.jpg,Pothole,0.011266321,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_009644.jpg,Alligator Crack,0.0069370316,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_009647.jpg,Alligator Crack,0.010797359,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_009687.jpg,Longitudinal Crack,0.00857385,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_009688.jpg,Pothole,0.017659621,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_009691.jpg,Pothole,0.020567516,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_009748.jpg,Pothole,0.017857725,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_009750.jpg,Alligator Crack,0.007556201,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_009752.jpg,Pothole,0.022408538,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_009765.jpg,Pothole,0.01615964,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_009785.jpg,Longitudinal Crack,0.010265364,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_009817.jpg,Alligator Crack,0.0037283169,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_009869.jpg,Pothole,0.015029328,0.0345263853669166,False
+D:\p1\RoadVision\data\raw\RDD2022\India\train\images\India_009884.jpg,Longitudinal Crack,0.012926981,0.0345263853669166,False

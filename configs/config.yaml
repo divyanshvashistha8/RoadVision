@@ -1,0 +1,59 @@
+project:
+  name: RoadVision
+  seed: 42
+
+data:
+  raw_root: "data/raw/RDD2022"
+  processed_root: "data/processed"
+  image_size: 224
+  batch_size: 32
+  num_workers: 0
+  val_size: 0.15
+  test_size: 0.15
+
+labels:
+  D00: "Longitudinal Crack"
+  D10: "Transverse Crack"
+  D20: "Alligator Crack"
+  D40: "Pothole"
+
+classification:
+  epochs: 20
+  learning_rate: 0.001
+  weight_decay: 0.0001
+  patience: 5
+
+transfer:
+  epochs: 15
+  learning_rate: 0.0003
+  weight_decay: 0.0001
+  patience: 5
+  freeze_backbone_epochs: 2
+
+embeddings:
+  batch_size: 64
+  pca_components: 50
+
+clustering:
+  min_k: 2
+  max_k: 10
+  random_state: 42
+
+anomaly:
+  epochs: 20
+  learning_rate: 0.001
+  latent_dim: 128
+  threshold_percentile: 95
+  patience: 5
+
+detection:
+  model: "yolo11n.pt"
+  epochs: 3
+  learning_rate: 0.001
+  weight_decay: 0.0001
+  patience: 3
+  freeze_backbone_epochs: 2
+  image_size: 416
+  batch: 4
+  confidence: 0.25
+  iou: 0.50
